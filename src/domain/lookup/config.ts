@@ -1,1 +1,1 @@
-const PROXY_URL = 'https://open-setlist-proxy.maneckeb.workers.dev';
+const PROXY_URL = "https://open-setlist-proxy.maneckeb.workers.dev";
